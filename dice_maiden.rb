@@ -1,7 +1,10 @@
 # Dice bot for Discord
-# Author: Humblemonk
+# Original Author: Humblemonk
 # Version: 4.0.6
 # Copyright (c) 2017. All rights reserved.
+# Forked By: Nelson "MindlesSnake" Campos
+# Version: 1.0.0
+# Copyright (c) 2020. All rights reserved.
 # !/usr/bin/ruby
 
 require 'discordrb'
